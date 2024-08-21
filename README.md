@@ -5,6 +5,7 @@ This is a repository for the R package fusQIF. The main functions divide data in
 - src/QIF-fusion.cpp: this file defines the Rcpp functions that compute the fused updates for the mean regression parameters.
 - R/estimation-funcs-package.R: this file defines the R functions for the fused QIF estimation of model parameters.
 - R/generate-datasets.R: this file defines the R functions to generate sample data to reproduce results in the manuscript
+- the simulation_pipeline_code folder is not part of the R package but is made available to reproduce the results in Hector (2023). This folder has its own README file.
 
 The fusQIF man file contains three examples for running the regression models from the paper.
 
