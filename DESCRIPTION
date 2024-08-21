@@ -1,0 +1,15 @@
+Package: fusQIF
+Type: Package
+Title: Fused Quadratic Inference Functions
+Version: 1.0-1
+Date: 2020-11-04
+Author: Blinded author
+Maintainer: [Blinded author] <Blinded_email@gmail.com>
+Description: Performs regression analysis of high-dimensional correlated responses. Divides data into blocks according to supplied indicator, analyses blocks using quadratic inference functions, and fuses blocks using ADMM and re-estimates parameters using optimal generalized method of moments (GMM) equation.
+License: GPL-3
+Imports: Rcpp (>= 0.12.11),
+         Matrix (>= 1.2.11),
+         stats,
+         MASS (>= 7.3.47)
+LinkingTo: Rcpp, RcppArmadillo
+SystemRequirements: GNU make

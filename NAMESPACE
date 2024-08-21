@@ -1,0 +1,13 @@
+useDynLib(fusQIF, .registration=TRUE)
+importFrom(Rcpp, evalCpp)
+importFrom(stats, "coef", "cov", "is.empty.model", "model.matrix",
+             "model.response", "optim", "pchisq", "pnorm",
+             "printCoefmat", "reshape", "rnorm", "runif", "var")
+export(dataset.normal.X2.selective)
+export(dataset.binomial.X2.selective)
+export(dataset.poisson.X2.selective)
+export(qiffusion)
+export(qiffusion.compute.mean)
+S3method(print,qiffus)
+S3method(print,summary.qiffus)
+S3method(summary,qiffus)
