@@ -8,7 +8,7 @@ This is a repository for the R package fusQIF. The main functions divide data in
 
 The fusQIF man file contains three examples for running the regression models from the paper.
 
-Please email <blinded_address> with any questions or bug-reports.
+Please email ehector@ncsu.edu with any questions or bug-reports.
 
 # Installation
 
