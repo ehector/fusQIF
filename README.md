@@ -20,12 +20,12 @@ Please make sure to have all packages listed in the DESCRIPTION file already ins
 
 # Citation
 
-If you use the fusQIF R package, please consider citing the relevant manuscript: Blinded Author, Fused mean structure learning in data integration with dependence.
+If you use the fusQIF R package, please consider citing the relevant manuscript: Emily C. Hector. Fused mean structure learning in data integration with dependence. The Canadian Journal of Statistics (2023). doi: 10.1002/cjs.11797.
 
 # References
 
 Emily C.Hector and Peter X.-K. Song (2020). Doubly distributed supervised learning and inference with high-dimensional correlated outcomes. Journal of Machine Learning Research, 21:1–35.
   
-  Emily C. Hector and Peter X.-K. Song (2020). A distributed and integrated method of moments for high-dimensional correlated data analysis. Journal of the American Statistical Association, 116:805-818.
+Emily C. Hector and Peter X.-K. Song (2020). A distributed and integrated method of moments for high-dimensional correlated data analysis. Journal of the American Statistical Association, 116:805-818.
 
 The posdef.matrix function was written by Ravi Varadhan: https://stat.ethz.ch/pipermail/r-help/2008-February/153708.
